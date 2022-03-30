@@ -14,7 +14,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/fundamentos-graphql?color=DA0093">
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last_commit/wsasouza/fundamentos-graphql?color=DA0093">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/fundamentos-graphql?color=DA0093">
   
 </p>
 
