@@ -53,9 +53,8 @@ Desvantagens do GraphQL:
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Cadastro de um usuário;\
+:heavy_check_mark: Listagem dos usuários cadastrados;\
 
 ## :rocket: Technologies
 
@@ -75,18 +74,30 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wsasouza/fundamentos-graph-ql
+$ git clone https://github.com/wsasouza/fundamentos-graphql
 
 # Access
-$ cd fundamentos-graph-ql
+$ cd fundamentos-graphql/backend
 
 # Install dependencies
-$ yarn
+$ npm install
 
-# Run the project
-$ yarn start
+# Run the backend project
+$ npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:4000>
+
+# Access
+$ cd fundamentos-graphql/frontend
+
+# Install dependencies
+$ npm install
+
+# Run the frontend project
+$ npm run dev
+
+# The frontend will initialize in the <http://localhost:3000>
+
 ```
 
 ## :memo: License
