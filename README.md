@@ -32,7 +32,24 @@
 
 ## :dart: About
 
-Describe your project
+GraphQL é uma linguagem de consulta (query language) para tornar APIs mais rápidas, flexíveis e intuitivas, principalmente no quesito gestão de dados entre front e backend.
+Em resumo, isto é GraphQL: uma técnica de programação que fornece leitura compreensível e completa de dados dentro de uma determinada API, com a finalidade de dar ao cliente “o poder de perguntar e obter informações específicas e exatas sobre o que precisa”.
+
+<img src="./assets/graphql-post.png" alt="Exemplo de uso do Graph Ql" />
+
+Benefícios do GraphQL:
+
+- Evita o Overfetching e Underfetching
+- Consequentemente reduz os custos de transferência de dados, tanto no lado do servidor (transferência) quanto no lado do cliente (banda 4G).
+- Garante tempos de resposta mais rápidos, mesmo em conexões lentas.
+- Tempos de carregamento mais rápidos para seu aplicativo móvel.
+- A simplicidade leva a um backend mais estável.
+
+Desvantagens do GraphQL:
+
+- Curva de aprendizado. Você já conhece o REST e precisará aprender o GraphQL.
+- Armazenamento em cache. É mais difícil, mas não impossível com o GraphQL.
+- As consultas sempre retornam o código de status 200.
 
 ## :sparkles: Features
 
