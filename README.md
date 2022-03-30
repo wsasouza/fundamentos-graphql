@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Fundamentos Graph Ql</h1>
+<h1 align="center">Fundamentos GraphQl</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/fundamentos-graphql?color=DA0093">
@@ -33,6 +33,7 @@
 ## :dart: About
 
 GraphQL é uma linguagem de consulta (query language) para tornar APIs mais rápidas, flexíveis e intuitivas, principalmente no quesito gestão de dados entre front e backend.
+
 Em resumo, isto é GraphQL: uma técnica de programação que fornece leitura compreensível e completa de dados dentro de uma determinada API, com a finalidade de dar ao cliente “o poder de perguntar e obter informações específicas e exatas sobre o que precisa”.
 
 <img src="./assets/graphql-post.png" alt="Exemplo de uso do Graph Ql" />
@@ -54,7 +55,7 @@ Desvantagens do GraphQL:
 ## :sparkles: Features
 
 :heavy_check_mark: Cadastro de um usuário;\
-:heavy_check_mark: Listagem dos usuários cadastrados;\
+:heavy_check_mark: Listagem dos usuários cadastrados;
 
 ## :rocket: Technologies
 
